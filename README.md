@@ -1,2 +1,1 @@
-# Activity-1
-Name and section
+ITCS102_1B_ABELLA_ACTIVITIES
